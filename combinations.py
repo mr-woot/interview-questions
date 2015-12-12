@@ -1,5 +1,5 @@
 '''
-Print all combinatiosn of a string.
+Print all combinations of a string.
 
 Input:
     'ros'
